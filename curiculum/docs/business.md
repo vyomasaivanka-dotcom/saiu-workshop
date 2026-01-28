@@ -1,8 +1,8 @@
 #Businesss School
 
-##Second year
+## 1st year
 
-###4th semester
+-business economics
+-
 
--professional yapper
--little gaming
+
