@@ -7,4 +7,3 @@
 - frontiers
 - mind body self
 - hueristics
-- 
